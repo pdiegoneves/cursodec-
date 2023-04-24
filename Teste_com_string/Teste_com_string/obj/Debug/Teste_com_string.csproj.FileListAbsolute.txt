@@ -1,0 +1,8 @@
+C:\Users\diego\source\repos\Teste_com_string\Teste_com_string\bin\Debug\Teste_com_string.exe.config
+C:\Users\diego\source\repos\Teste_com_string\Teste_com_string\bin\Debug\Teste_com_string.exe
+C:\Users\diego\source\repos\Teste_com_string\Teste_com_string\bin\Debug\Teste_com_string.pdb
+C:\Users\diego\source\repos\Teste_com_string\Teste_com_string\obj\Debug\Teste_com_string.csproj.AssemblyReference.cache
+C:\Users\diego\source\repos\Teste_com_string\Teste_com_string\obj\Debug\Teste_com_string.csproj.SuggestedBindingRedirects.cache
+C:\Users\diego\source\repos\Teste_com_string\Teste_com_string\obj\Debug\Teste_com_string.csproj.CoreCompileInputs.cache
+C:\Users\diego\source\repos\Teste_com_string\Teste_com_string\obj\Debug\Teste_com_string.exe
+C:\Users\diego\source\repos\Teste_com_string\Teste_com_string\obj\Debug\Teste_com_string.pdb

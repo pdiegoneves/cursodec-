@@ -1,0 +1,8 @@
+C:\Users\diego\source\repos\lacos_De_repeticao\lacos_De_repeticao\bin\Debug\lacos_De_repeticao.exe.config
+C:\Users\diego\source\repos\lacos_De_repeticao\lacos_De_repeticao\bin\Debug\lacos_De_repeticao.exe
+C:\Users\diego\source\repos\lacos_De_repeticao\lacos_De_repeticao\bin\Debug\lacos_De_repeticao.pdb
+C:\Users\diego\source\repos\lacos_De_repeticao\lacos_De_repeticao\obj\Debug\lacos_De_repeticao.csproj.AssemblyReference.cache
+C:\Users\diego\source\repos\lacos_De_repeticao\lacos_De_repeticao\obj\Debug\lacos_De_repeticao.csproj.SuggestedBindingRedirects.cache
+C:\Users\diego\source\repos\lacos_De_repeticao\lacos_De_repeticao\obj\Debug\lacos_De_repeticao.csproj.CoreCompileInputs.cache
+C:\Users\diego\source\repos\lacos_De_repeticao\lacos_De_repeticao\obj\Debug\lacos_De_repeticao.exe
+C:\Users\diego\source\repos\lacos_De_repeticao\lacos_De_repeticao\obj\Debug\lacos_De_repeticao.pdb

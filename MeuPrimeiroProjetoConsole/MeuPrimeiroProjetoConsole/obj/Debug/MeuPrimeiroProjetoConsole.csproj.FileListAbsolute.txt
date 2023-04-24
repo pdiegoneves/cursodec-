@@ -1,0 +1,8 @@
+C:\Users\diego\source\repos\MeuPrimeiroProjetoConsole\MeuPrimeiroProjetoConsole\obj\Debug\MeuPrimeiroProjetoConsole.csproj.AssemblyReference.cache
+C:\Users\diego\source\repos\MeuPrimeiroProjetoConsole\MeuPrimeiroProjetoConsole\obj\Debug\MeuPrimeiroProjetoConsole.csproj.SuggestedBindingRedirects.cache
+C:\Users\diego\source\repos\MeuPrimeiroProjetoConsole\MeuPrimeiroProjetoConsole\obj\Debug\MeuPrimeiroProjetoConsole.csproj.CoreCompileInputs.cache
+C:\Users\diego\source\repos\MeuPrimeiroProjetoConsole\MeuPrimeiroProjetoConsole\bin\Debug\OlaMundo.exe.config
+C:\Users\diego\source\repos\MeuPrimeiroProjetoConsole\MeuPrimeiroProjetoConsole\bin\Debug\OlaMundo.exe
+C:\Users\diego\source\repos\MeuPrimeiroProjetoConsole\MeuPrimeiroProjetoConsole\bin\Debug\OlaMundo.pdb
+C:\Users\diego\source\repos\MeuPrimeiroProjetoConsole\MeuPrimeiroProjetoConsole\obj\Debug\OlaMundo.exe
+C:\Users\diego\source\repos\MeuPrimeiroProjetoConsole\MeuPrimeiroProjetoConsole\obj\Debug\OlaMundo.pdb
